@@ -177,6 +177,6 @@ UploadFlow is developed and published by [CloudGrids](https://cloudgrids.tech/) 
 - [Live demonstration](https://uploadflow.cloudgrids.tech/demo)
 - [Privacy policy](https://uploadflow.cloudgrids.tech/privacy)
 - [Support](https://uploadflow.cloudgrids.tech/support)
-- [Report an issue or request a feature](https://github.com/cloudgrids/uploadflow/issues/new/choose)
+- [Report an issue or request a feature](https://github.com/cloudgrids/uploadflow-open-issues/issues/new/choose)
 
 Public listing and social assets are maintained in [`public/`](public/), including the Open Graph image, share preview, screenshots, workflow diagrams, posters, and demonstration video.
